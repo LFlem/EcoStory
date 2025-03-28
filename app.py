@@ -1,14 +1,5 @@
 import streamlit as st
 
-st.markdown("""
-    <style>
-    /* Masque les informations de déploiement */
-    .stDeploymentInfo {
-        display: none !important;
-    }
-    </style>
-    """, unsafe_allow_html=True)
-
 # ====================
 # ARBRE DÉCISIONNEL COMPLET
 # ====================
