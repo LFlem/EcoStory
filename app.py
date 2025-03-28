@@ -1,5 +1,12 @@
 import streamlit as st
 
+st.markdown("""
+    <style>
+    footer {visibility: hidden;}
+    .stDeploymentInfo {visibility: hidden;}
+    </style>
+    """, unsafe_allow_html=True)
+
 # ====================
 # ARBRE DÉCISIONNEL COMPLET
 # ====================
