@@ -1,14 +1,6 @@
 # EcoStory - Générateur d'Histoires Écologiques Interactives
 ![Schéma de l'architecture](docs/eco.webp)
 
-## Membre de l'équipe
-- Charmeel VODOUHE
-- Rochdyath BACHABI
-- Aman MENDA
-- Hanim MOUSSA YARI
-- Linerol TCHECOUNNOU
-- Imdad ADELABOU
-
 ## 🌍 Description
 EcoStory est une application web interactive qui permet aux utilisateurs d'explorer différents scénarios écologiques à travers des histoires dont ils sont les héros. Chaque choix influence l'environnement et le déroulement de l'aventure.
 
